@@ -1,0 +1,10 @@
+{
+  "description": "A unified school management and learning platform for Ethiopian schools, connecting administrators, teachers, students, and parents with tools for academics, operations, and communication.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
